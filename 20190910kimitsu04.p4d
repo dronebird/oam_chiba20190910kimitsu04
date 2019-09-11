@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pix4dmapper>
+    <options>
+        <loadTemplate>3d-maps</loadTemplate>
+    </options>
+    <inputs>
+        <images>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1546.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1547.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1548.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1549.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1550.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1551.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1552.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1553.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1554.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1555.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1556.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1557.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1558.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1559.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1560.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1561.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1562.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1563.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1564.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1565.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1566.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1567.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1568.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1569.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1570.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1571.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1572.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1573.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1574.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1575.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1576.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1577.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1578.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1579.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1580.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1581.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1582.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1583.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1584.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1585.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1586.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1587.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1588.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1589.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1590.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1591.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1592.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1593.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1594.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1595.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1596.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1597.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1598.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1599.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1600.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1601.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1602.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1603.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1604.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1605.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1606.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1607.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1608.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1609.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1610.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1611.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1612.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1613.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1614.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1615.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1616.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1617.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1618.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1619.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1620.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1621.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1622.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1623.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1624.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1625.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1626.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1627.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1628.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1629.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1630.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1631.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1632.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1633.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1634.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1635.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1636.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1637.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1638.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1639.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1640.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1641.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1642.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1643.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1644.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1645.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1646.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1647.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1648.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1649.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1650.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1651.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1652.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1653.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1654.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1655.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1656.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1657.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1658.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1659.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1660.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1661.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1662.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1663.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1664.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1665.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1666.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1667.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1668.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1669.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1670.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1671.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1672.JPG"/>
+            <image path="C:/Users/mapco/OneDrive/ドキュメント/20190910kimitsu04/img/IMG_1673.JPG"/>
+        </images>
+        <processingArea>
+            <geoCoord2D lat="35.3326295000" lng="139.9070946000"/>
+            <geoCoord2D lat="35.3258502000" lng="139.9026600000"/>
+            <geoCoord2D lat="35.3223931000" lng="139.9106262000"/>
+            <geoCoord2D lat="35.3291727100" lng="139.9150609700"/>
+        </processingArea>
+    </inputs>
+</pix4dmapper>
